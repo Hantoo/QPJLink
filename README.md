@@ -1,7 +1,7 @@
 # QPJLink
 PJLink Plugin For Qlab
 
-To get started. Please download "[QPJLink.zip](/QPJLink.zip)". This file contains all scripts and a sample QLab file to get you started!
+To get started. Please download "[QPJLink.zip](https://github.com/Hantoo/QPJLink/releases)". This file contains all scripts and a sample QLab file to get you started!
 
 QPJLink is a  easy to use script to allow for use of PJLink from Qlab.
 Based of off [DaveTHW's PJLink Script](https://github.com/DaveThw/PJLink), QPJLink expands on the functionality and ease of use of the script.
@@ -38,17 +38,28 @@ where
 You can write any notes before PJLink to help you understand this que. Please do not write "PJLink" in the notes before the "PJLink:Projector...." section otherwise the script will get confused. The script looks for the PJLink in the cue name.
 
 ## Support Commands
-Currently the only supported commands are:
+Current supported commands are:
 * "Power On"
 * "Power Off"
 * "Shutter Open"
 * "Shutter Close"
-
-More commands are looking to be added in the future.
+* "Freeze On"
+* "Freeze Off"
+* "Mute VideoOn"
+* "Mute VideoOff"
+* "Mute AudioOn"
+* "Mute AudioOff"
+* "Mute VideoAndAudioOn"
+* "Mute VideoAndAudioOff"
+* "Input RGB [Input Number - 1-9 or a-z]" - "Input RGB 1"
+* "Input Video [Input Number - 1-9 or a-z]"
+* "Input Digital [Input Number - 1-9 or a-z]"
+* "Input Storage [Input Number - 1-9 or a-z]"
+* "Input Network [Input Number - 1-9 or a-z]"
 
 ## Troubleshooting
 
-If the terminal show permission denied for projector.sh file then run
+If the terminal show permission denied for extended.sh file then run
     
-    chmod +x ~/Desktop/QPJLink/Scripts/Projector.sh
+    chmod +x ~/Desktop/QPJLink/Scripts/extended.sh
 
