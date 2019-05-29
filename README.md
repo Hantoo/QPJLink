@@ -1,6 +1,8 @@
 # QPJLink
 PJLink Plugin For Qlab
 
+To get started. Please download "QPJLink.zip". This file contains all scripts and a sample QLab file to get you started!
+
 QPJLink is a  easy to use script to allow for use of PJLink from Qlab.
 Based of off [DaveTHW's PJLink Script](https://github.com/DaveThw/PJLink), QPJLink expands on the functionality and ease of use of the script.
 The Syntax of use is similar of that of [Alec's QSpotify](https://github.com/sparks-alec/QSpotify) in that there is a configuration cue list, as well as the actions are determined by the name of the cue.
