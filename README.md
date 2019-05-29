@@ -1,7 +1,7 @@
 # QPJLink
 PJLink Plugin For Qlab
 
-To get started. Please download "[QPJLink.zip](https://github.com/Hantoo/QPJLink/releases)". This file contains all scripts and a sample QLab file to get you started!
+To get started. Please download the latest "[QPJLink.zip](https://github.com/Hantoo/QPJLink/releases)" from the releases page. This file contains all scripts and a sample QLab file to get you started!
 
 QPJLink is a  easy to use script to allow for use of PJLink from Qlab.
 Based of off [DaveTHW's PJLink Script](https://github.com/DaveThw/PJLink), QPJLink expands on the functionality and ease of use of the script.
