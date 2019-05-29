@@ -46,3 +46,9 @@ Currently the only supported commands are:
 
 More commands are looking to be added in the future.
 
+Troubleshooting
+
+If permission denied for .sh file then run
+    
+    chmod +x ~/Desktop/QPJLink/Scripts/Projector.sh
+
